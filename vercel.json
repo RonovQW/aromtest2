@@ -1,0 +1,5 @@
+{
+  "env": {
+    "CSP": "script-src 'self' 'unsafe-eval';"
+  }
+}
